@@ -54,3 +54,4 @@ if __name__ == '__main__':
     # scan_codes_from_image('barcode_or_qr.png')
     # Scan using the webcam
     # scan_codes_from_webcam()
+    
